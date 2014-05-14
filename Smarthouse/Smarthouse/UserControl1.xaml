@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Smarthouse.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="180" Width="282">
+    <Grid x:Name="mygrid" Background="LightGray">
+        <Rectangle Margin="10,10,0,0" Fill="DarkGray" RadiusX="8" RadiusY="8"/>
+        <Border Margin="4" BorderBrush="White" Background="LightGray" BorderThickness="1,1,1,1" CornerRadius="8,8,8,8"/>
+    </Grid>
+</UserControl>

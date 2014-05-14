@@ -1,0 +1,62 @@
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\Smarthouse.exe
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\Smarthouse.pdb
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\MainWindow.baml
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\MainWindow.g.cs
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\App.g.cs
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse_MarkupCompile.cache
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.g.resources
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.Properties.Resources.resources
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.csproj.GenerateResource.Cache
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.exe
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.pdb
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window1.baml
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window1.g.cs
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window2.baml
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window2.g.cs
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window3.baml
+c:\users\lorenzo\documents\visual studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Window3.g.cs
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse.csprojResolveAssemblyReference.cache
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\obj\x86\Debug\Smarthouse_Content.g.cs
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\Smarthouse.exe.config
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\EntityFramework.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\System.Data.SQLite.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\EntityFramework.xml
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LORENZO\Documents\Visual Studio 2010\Projects\Smarthouse\Smarthouse\bin\Debug\System.Data.SQLite.xml
+E:\Smarthouse_afa\Smarthouse\bin\Debug\Smarthouse.exe.config
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.exe
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.pdb
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.csprojResolveAssemblyReference.cache
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\MainWindow.baml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window1.baml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window2.baml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window3.baml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\MainWindow.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window1.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window2.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Window3.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\App.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse_Content.g.cs
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse_MarkupCompile.cache
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.g.resources
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.Properties.Resources.resources
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\Smarthouse.csproj.GenerateResource.Cache
+E:\Smarthouse_afa\Smarthouse\bin\Debug\x64\SQLite.Interop.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\x86\SQLite.Interop.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\Smarthouse.exe
+E:\Smarthouse_afa\Smarthouse\bin\Debug\Smarthouse.pdb
+E:\Smarthouse_afa\Smarthouse\bin\Debug\EntityFramework.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\EntityFramework.SqlServer.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\System.Data.SQLite.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Smarthouse_afa\Smarthouse\bin\Debug\EntityFramework.xml
+E:\Smarthouse_afa\Smarthouse\bin\Debug\EntityFramework.SqlServer.xml
+E:\Smarthouse_afa\Smarthouse\bin\Debug\System.Data.SQLite.xml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\UserControl1.baml
+E:\Smarthouse_afa\Smarthouse\obj\x86\Debug\UserControl1.g.cs
